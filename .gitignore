@@ -1,0 +1,7 @@
+#git管理中不包括的文件
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
